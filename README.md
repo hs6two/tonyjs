@@ -1,2 +1,2 @@
 # tonyjs
-learning angualjs and nodejs in linuxmint
+learning angualjs and nodejs for web developer.
